@@ -17,5 +17,4 @@ Forecast future remittance inflow using time series analysis.
 
 ## Tools
 - R
-- ARIMA / SARIMAX
 - Python
