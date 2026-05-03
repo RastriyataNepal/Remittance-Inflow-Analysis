@@ -1,5 +1,4 @@
 # Remittance-Inflow-Analysis-and-Forecasting
-# Remittance Flow Analysis (Nepal)
 
 ## Objective
 Forecast future remittance inflow using time series analysis.
