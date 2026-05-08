@@ -13,7 +13,7 @@ Forecast future remittance inflow using time series analysis.
 - Exchange Rate
 - Inflation
 - Migration
-- Oil Price
+  
 
 ## Tools
 - R
