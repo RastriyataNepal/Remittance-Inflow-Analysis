@@ -1,3 +1,4 @@
+#Kanchan Dhakal
 install.packages("dpylr")
 install.packages("ggplot2")
 install.packages("corrplot")
@@ -204,6 +205,7 @@ var(Remittance_inflow$Inflation)
 var(Remittance_inflow$Net.migration)
 var(Remittance_inflow$Exchange.rate.US..to.NPR.)
 
+#Shristi & Shuvechchha part
 # 1. STATIONARY DATA PREPARATION (The Pro Way)
 
 # Create a clean, unified dataframe of differenced/stationary variables
@@ -315,6 +317,8 @@ summary(var_model_fixed)
 # Reliable Impulse Response Function
 irf_result <- irf(var_model_fixed, impulse = "d_Remittance", response = "g_GDP", n.ahead = 5)
 plot(irf_result)
+#Rastriyata ko part
+    
 remit_ts <- ts(Remittance_inflow$Remittance,
                start = min(Remittance_inflow$Year),
                frequency = 1)
