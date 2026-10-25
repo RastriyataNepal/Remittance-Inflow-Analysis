@@ -1,7 +1,7 @@
-# Remittance-Inflow-Analysis-and-Forecasting
+# Remittance-Inflow-Analysis
 
 ## Objective
-Forecast future remittance inflow using time series analysis.
+Study the remittance inflow using time series analysis.
 
 ## Dataset
 - World Bank
